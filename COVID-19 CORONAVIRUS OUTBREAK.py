@@ -8,7 +8,7 @@ def coronavirus():
     outputFile = open('COVID-19 CORONAVIRUS OUTBREAK.csv',	'w',	newline='')
     outputWriter = csv.writer(outputFile)
     outputWriter.writerow(['Date', 'Pais', 'TotalDeaths', 'SeriousCases','TotalCases'])
-    print("Pais   Toral Cases")
+    print("countrie   Total Cases")
     for elem in dic:
         print("%s    %s "%(elem['name'],elem['totalCases']))
         outputWriter.writerow([elem['updatedAt'],elem['name'],elem['totalCases'],elem['totalDeaths'],elem['seriousCases']])
