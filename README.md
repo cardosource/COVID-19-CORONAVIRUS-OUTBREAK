@@ -17,5 +17,5 @@ A solução é lenta e dolorosa  para os que receberam a noticia de  falecimento
 
 
 
-![](https://img.shields.io/badge/Code-v3.9-informational?style=flat&logo=python&logoColor=white&color=blue) ![GitHub](https://img.shields.io/badge/licence-GPL%203.0-GREE) 
+![](https://img.shields.io/badge/.-v3.9-informational?style=flat&logo=python&logoColor=white&color=blue) ![GitHub](https://img.shields.io/badge/licence-GPL%203.0-GREE) 
 
